@@ -1,4 +1,5 @@
 # Linux-Operating-System-Project-3
+The third project of the Linux Operating System course.
 
 ## How to use?
 You can compile `cpu_id.c`, `cpu_bound.c` or `io_bound.c` with below command:
