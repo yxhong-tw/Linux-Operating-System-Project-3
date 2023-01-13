@@ -3,7 +3,7 @@
 ## How to use?
 You can compile `cpu_id.c`, `cpu_bound.c` or `io_bound.c` with below command:
 ```
-gcc -o main {file_name}.c
+gcc -o {file_name} {file_name}.c
 ```
 
 ## Notices
